@@ -9,6 +9,10 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
 .ellipse {
 }
 .image {
@@ -76,6 +80,16 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
 .sticky_1 {
   text-align:left;
 }
@@ -105,4 +119,6 @@
   color:#000000;
 }
 ._水平线 {
+}
+.icon {
 }
