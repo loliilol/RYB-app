@@ -132,3 +132,12 @@
   font-style:normal;
   color:#000000;
 }
+._形状1 {
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+  font-size:28px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
