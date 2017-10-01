@@ -672,16 +672,25 @@
   border-radius:0px;
 }
 #u160 {
-  position:fixed;
+  border-width:0px;
+  position:absolute;
   left:0px;
-  top:618px;
+  top:598px;
+  width:375px;
+  height:49px;
+  overflow:hidden;
 }
 #u160_state0 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:49px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u160_state0_content {

@@ -2049,16 +2049,25 @@
   white-space:nowrap;
 }
 #u1471 {
-  position:fixed;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:618px;
+  width:375px;
+  height:49px;
+  overflow:hidden;
 }
 #u1471_state0 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:49px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u1471_state0_content {
