@@ -26,15 +26,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   line-height:16px;
 }
 #u2223 {
   border-width:0px;
   position:absolute;
   left:21px;
-  top:151px;
+  top:154px;
   width:703px;
   height:361px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   line-height:16px;
 }
 #u2224 {
